@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Dependency</id>
+        <version>5.0.0</version>
+        <title>Dependency</title>
+        <authors>Kristof</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>My awesome dependency description.</description>
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5" />
+        </frameworkAssemblies>
+    </metadata>
+</package>
